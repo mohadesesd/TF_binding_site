@@ -25,6 +25,7 @@ source myenv/bin/activate
 
 # Install the package
 pip install tensorflow
+pip install keras
 ```
 
 This project is open source and available under the MIT License.
