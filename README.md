@@ -1,7 +1,4 @@
-# TF_binding_site
-
-
-# Binding Site Prediction 
+# Transcription Factor Binding Site Prediction 
 
 This repository contains a Keras implementation of a binding prediction model that incorporates convolutional layers, LSTM, and a custom self-attention mechanism.
 
